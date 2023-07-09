@@ -1,8 +1,6 @@
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/f7cd096f108d83c988169096361972fc/tumblr_otjfqziQrH1qze3hdo1_500.gifv">
-
 <h1 align="center">Hi 👋, I'm Rohit Thannickal</h1>
 <h3 align="center">A Curious Code Disciple from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/f7cd096f108d83c988169096361972fc/tumblr_otjfqziQrH1qze3hdo1_500.gifv"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rorshack13&label=Profile%20views&color=0e75b6&style=flat" alt="rorshack13" /> </p>
 
 - 🌱 I’m currently learning **React, React Native**
