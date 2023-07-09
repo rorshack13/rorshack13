@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Thannickal</h1>
 <h3 align="center">A Curious Code Disciple from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://art.pixilart.com/4d5f9a87bda812c.png)"
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/f7cd096f108d83c988169096361972fc/tumblr_otjfqziQrH1qze3hdo1_500.gifv"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rorshack13&label=Profile%20views&color=0e75b6&style=flat" alt="rorshack13" /> </p>
 
 - 🌱 I’m currently learning **React, React Native**
