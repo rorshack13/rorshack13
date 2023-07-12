@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rohit Thannickal</h1>
-<h3 align="center">A Curious Code Disciple from India</h3>
-<img align="right" width="400" 
+<h1 align="center">Hey, it's Rohit here!</h1>
+<h3 align="center">A Lifelong learner</h3>
+<img align="right" width="100" 
 <p align="left"> <img src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376" alt="rorshack13" /> </p>
 
 - 🌱 I’m currently learning **React, React Native**
@@ -25,4 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rorshack13&" alt="rorshack13" /></p>
 
-![Snake animation](https://github.com/rorshack13/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
