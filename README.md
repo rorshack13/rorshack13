@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Thannickal</h1>
 <h3 align="center">A Curious Code Disciple from India</h3>
-<img align="right" alt="Coding" width="400" 
+<img align="right" width="400" 
 <p align="left"> <img src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376" alt="rorshack13" /> </p>
 
 - 🌱 I’m currently learning **React, React Native**
